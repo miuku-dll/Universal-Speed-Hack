@@ -1,6 +1,6 @@
 # Introduction
 
-The script is undetected in any game, since it does not use humanoid speed.
+The script is mostly undetected since it does not play around with humanoid walkspeed, creates a simple part that pushes you forward.
 
 # Usage
 
